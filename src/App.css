@@ -55,47 +55,38 @@ body {
   color: #fff;
   display: flex;
   flex-direction: column;
+  background-size: fill;
+  background-repeat: no-repeat;
+  border-radius: 5px;
  
  
 }
 .data-list:nth-child(1) {
   background: url('https://finmavis.github.io/swapi-task/static/media/bg-card-1.0c96fd00.png');
-  background-size: fill;
-  background-repeat: no-repeat;
-  border-radius: 5px;
+ 
 }
 
 .data-list:nth-child(2) {
   background: url('https://finmavis.github.io/swapi-task/static/media/bg-card-2.b0a7b209.png');
-  background-size: fill;
-  background-repeat: no-repeat;
-  border-radius: 5px;
+ 
 }
 .data-list:nth-child(3) {
   background: url('https://finmavis.github.io/swapi-task/static/media/bg-card-3.1914d853.png');
-  background-size: fill;
-  background-repeat: no-repeat;
-  border-radius: 5px;
+  
 }
 
 .data-list:nth-child(4) {
   background: url('https://finmavis.github.io/swapi-task/static/media/bg-card-4.c21c4d4b.png');
-  background-size: fill;
-  background-repeat: no-repeat;
-  border-radius: 5px;
+  
 }
 .data-list:nth-child(5) {
   background: url('https://finmavis.github.io/swapi-task/static/media/bg-card-5.67d061d6.png');
-  background-size: fill;
-  background-repeat: no-repeat;
-  border-radius: 5px;
+  
 }
 
 .data-list:nth-child(6) {
   background: url('https://finmavis.github.io/swapi-task/static/media/bg-card-6.b4fea25d.png');
-  background-size: fill;
-  background-repeat: no-repeat;
-  border-radius: 5px;
+  
 }
 .title {
   font-size: 1.5rem;
